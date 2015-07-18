@@ -1,2 +1,3 @@
-# EMAILviaJAVA
 javamail api download
+http://www.oracle.com/technetwork/java/javamail/javamail145-1904579.html
+rozbalit a z priecinka /lib prekopirovat .jar do apachetomcat/lib...
